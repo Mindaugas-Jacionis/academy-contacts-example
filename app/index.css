@@ -1,0 +1,11 @@
+* {
+  font-family: Monospace;
+}
+
+#app {
+  padding-bottom: 20px;
+}
+
+#app .contact span {
+  margin-right: 30px;
+}
